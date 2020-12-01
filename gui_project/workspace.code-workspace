@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../C_exercise"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"vector": "cpp"
+		},
+		"python.pythonPath": "/usr/bin/python"
+	}
+}
